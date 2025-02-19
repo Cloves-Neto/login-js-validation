@@ -22,7 +22,7 @@ contém:
 
 #### Teste do projeto
 Baixe o arquivo ZIP do projeto, descompacte em um local reservado no seu computador. 
-Abra a pasta como preferir (CMD ou Editor de código) navegue até a pasta do "app-login" e execute o comando "`npm run dev`".
+Abra a pasta como preferir (CMD ou Editor de código) navegue até a pasta do "app-login" e execute o comando "`npm install e em sguida npm run dev`".
 
 - `EMAIL`: teste@teste.com
 - `SENHA`: teste123
